@@ -1,6 +1,13 @@
+<!-- ===== THEME-AWARE HERO BANNER ===== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deepshikha-Shakshi/Deepshikha-Shakshi/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deepshikha-Shakshi/Deepshikha-Shakshi/main/light.svg">
+  <img alt="Deepshikha Shakshi" src="https://raw.githubusercontent.com/Deepshikha-Shakshi/Deepshikha-Shakshi/main/light.svg">
+</picture>
+
 <h1 align="center">Hi there, I'm Deepshikha Shakshi 👋</h1>
 <div align="center">
-  <img src="Deepshikha.png" alt="Deepshikha Shakshi" width="100%">
+  <img src="Deepshikha.png" alt="Deepshikha Shakshi" width="250">
 </div>
 
 <!-- ===== GITHUB STATS ===== -->
