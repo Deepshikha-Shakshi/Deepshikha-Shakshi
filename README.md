@@ -6,9 +6,6 @@
 </picture>
 
 <h1 align="center">Hi there, I'm Deepshikha Shakshi 👋</h1>
-<div align="center">
-  <img src="Deepshikha.png" alt="Deepshikha Shakshi" width="250">
-</div>
 
 <!-- ===== GITHUB STATS ===== -->
 
