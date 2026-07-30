@@ -1,45 +1,44 @@
 [
   {
-    "name": "LeadUnity",
-    "repo": "arifhaxn/lead_unity",
+    "name": "DocX Converter",
+    "repo": "Deepshikha-Shakshi/DocX-Converter-using-JS",
     "logo": "logo.png",
-    "description": "Leading University's defense setup",
-    "tags": ["Flutter", "Dart", "NextJS"]
+    "description": "Document Conversion Application that converts DOCX to PDF.",
+    "tags": ["HTML", "JavaScript"]
   },
   {
-    "name": "OnePick",
-    "repo": "arifhaxn/one_pick",
+    "name": "COMPUTATION COGNATION",
+    "repo": "Deepshikha-Shakshi/COMPUTATION-COGNATION",
     "logo": "op.png",
-    "description": "An One Piece trivia app to find your character",
-    "tags": ["Flutter", "Dart"]
+    "description": "A collection of Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing laboratory experiments.",
+    "tags": ["Python", "TensorFlow", "OpenCV"]
   },
   {
-    "name": "Chessy",
-    "repo": "arifhaxn/chessy",
+    "name": "Molecule Prediction",
+    "repo": "Deepshikha-Shakshi/Anti-Inflammatory-Small-Molecule-Prediction",
     "logo": "chess.png",
-    "description": "Chess timer app for all types of variations",
-    "tags": ["Flutter", "Dart"]
+    "description": "Anti-Inflammatory Small Molecule Prediction project.",
+    "tags": ["Jupyter Notebook", "Python"]
   },
   {
-    "name": "Claster",
-    "repo": "arifhaxn/Claster",
+    "name": "Cherry Network",
+    "repo": "Deepshikha-Shakshi/Cherry-Network-Hackathon",
     "logo": "claster.png",
-    "description": "A class scheduling app for teachers which is used to track routines",
-    "tags": ["Flutter", "Dart", "Firebase"]
+    "description": "Cherry Network Hackathon project repository.",
+    "tags": ["Hackathon"]
   },
   {
-    "name": "OneTELE",
-    "repo": "arifhaxn/OneTELE---Liilab-Teleprompter",
+    "name": "NLP Shopping",
+    "repo": "Deepshikha-Shakshi/NLP-Shopping",
     "logo": "onetele.png",
-    "description": "A custom teleprompter for liilab's recording studio",
-    "tags": ["Flutter", "Dart"]
+    "description": "Natural Language Processing applied to Shopping experiences.",
+    "tags": ["Python", "NLP"]
   },
   {
-    "name": "Career Logic AI",
-    "repo": "arifhaxn/CareerLogic-AI",
+    "name": "Kurukshetra",
+    "repo": "Deepshikha-Shakshi/Kurukshetra-RA2212702010034",
     "logo": "cl.png",
-    "description": "An AI Powered CV management and assesment system for aspiring career builders",
-    "tags": ["Flutter", "Dart", "Groq"]
+    "description": "Kurukshetra RA2212702010034 academic repository.",
+    "tags": ["Project"]
   }
 ]
-
